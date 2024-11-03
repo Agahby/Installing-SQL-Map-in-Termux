@@ -1,0 +1,20 @@
+➣ Installing SQLmap in Termux
+
+• pkg update && upgrade
+
+• apt install python
+
+• apt install python2
+
+• apt install git
+
+• git clone https://github.com/sqlmapproject/sqlmap
+
+• cd sqlmap-dev
+
+• chmod +x
+
+• ls
+
+• python3 sqlmap.py
+(It is not stolen, it was edited and shared by me.)
